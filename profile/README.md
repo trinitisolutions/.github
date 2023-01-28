@@ -1,3 +1,3 @@
 # Welcome to the Github of TrinitiSolutions
 
-![TrinitiLogo](https://www.appset.nl/triniti_logo_V2.png)
+![TrinitiLogo](https://www.appset.nl/logo%20V2%20with%20solutions%20v2%20trans.png)
