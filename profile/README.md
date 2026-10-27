@@ -24,7 +24,7 @@ We bouwden dit soort lagen op Thinkproject en Microsoft 365. Elk systeem met een
 
 ## Onze producten
 
-- **[Calipso](https://calipso.nl)** voor urenregistratie en projectadministratie.
+- **[Calipso](https://triniticalipso.nl)** voor urenregistratie en projectadministratie.
 - **[Appset](https://appset.nl)** voor websites en boekingen voor ondernemers.
 
 ## Contact
